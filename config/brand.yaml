@@ -1,0 +1,29 @@
+brand:
+  working_name: "La Oficina Improbable"
+  descriptor: "Conversaciones absurdas. Ideas reales."
+  language: "es-419"
+  status: "pilot_hypothesis"
+  personality:
+    - curious
+    - witty
+    - rigorous
+    - intentionally_synthetic
+  promise: "Entender una idea real mediante una conversación que no debería existir."
+  palette:
+    midnight_navy: "#07152D"
+    electric_cyan: "#20CFF2"
+    warm_coral: "#FF735B"
+    acid_lime: "#CBFF4A"
+  visual_rules:
+    aspect_ratio: "9:16"
+    avatar_style: "fictional, visibly AI-generated, expressive"
+    subtitles: "large, high contrast, maximum two lines"
+    shot_change_seconds: "2-4"
+    prohibit:
+      - celebrity likenesses
+      - unlicensed voice cloning
+      - photorealistic deception
+      - copied characters
+      - copied scripts
+  editorial_rule: "Replicate narrative grammar, never protected expression."
+  tagline: "Aquí hasta las ideas tienen problemas."
