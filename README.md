@@ -2,6 +2,8 @@
 
 Laboratorio de contenido vertical generado con IA: conversaciones absurdas que explican ideas reales.
 
+![Marca piloto de La Oficina Improbable](assets/brand/la-oficina-improbable-avatar-v1.png)
+
 ## Hipótesis editorial
 
 Personificar conceptos de economía, IA, ciencia de datos y trabajo cotidiano puede aumentar la retención, los compartidos y la recordación sin ocultar que el contenido es generado con IA.
