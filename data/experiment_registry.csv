@@ -1,0 +1,4 @@
+experiment_id,video_id,concept,variant,language,country,platform,account,published_at,url,views_24h,views_72h,views_7d,avg_watch_seconds,completion_rate,likes,comments,shares,saves,followers_gained,cost_usd,status,decision
+pilot-001,v01,overfitting_therapy,A,es-419,PE,,,,,,,,,,,,,,,0,draft,
+pilot-001,v02,inflation_salary,A,es-419,PE,,,,,,,,,,,,,,,0,draft,
+pilot-001,v03,ai_meeting,A,es-419,PE,,,,,,,,,,,,,,,0,draft,
